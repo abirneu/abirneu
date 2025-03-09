@@ -1,19 +1,22 @@
 <!-- Gitbanner start -->
  ![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
  <div id="welcome"></div>
- <!-- Gitbanner start --><h1 align="center">Hi 👋, I'm Abir Hasan</h1>
+ <h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
+ <h1 align="center">I'm <a href="https://abirneu.github.io/Portfolio/" >Abir Hasan</a></h1>
+ <p align="center">
 <h3 align="center">A passionate Programmer and Full Stack Web developer from Bangladesh</h3>
-<img aline="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mza2E1M2k2aGltejQ5Zmd4NWxtbG1nMHl0M252NDRmMnRtd3BqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ALOsHTCDT5fi/giphy.gif">
+<!-- <img aline="right" alt="Coding" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Mza2E1M2k2aGltejQ5Zmd4NWxtbG1nMHl0M252NDRmMnRtd3BqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ALOsHTCDT5fi/giphy.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirneu&label=Profile%20views&color=0e75b6&style=flat" alt="abirneu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<!-- GitHub About me section start -->
+  <h3 align="left">👨‍💻About Me:</h3>
 - 🤖 I’m currently working on [CKD Prediction Using ML](https://github.com/abirneu/CKD)
 
 - 🌱 I’m currently learning **ML, Python and SQL**
 
-- 👨‍💻 All of my projects are available at [https://abirneu.github.io/Portfolio/](https://abirneu.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/abirneu](https://github.com/abirneu)
 
 - 📫 How to reach me **abir.neu@gmail.com**
 
