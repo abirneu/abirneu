@@ -12,7 +12,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <!-- GitHub About me section start -->
   <h3 align="left">👨‍💻About Me:</h3>
-- 🤖 I’m currently working on [CKD Prediction Using ML](https://github.com/abirneu/CKD)
+- 🤖 I’m currently working on <b>CKD Prediction Using ML</b> <a href="https://github.com/abirneu/CKD" > (git)</a> 
+<!-- [CKD Prediction Using ML](https://github.com/abirneu/CKD) -->
 
 - 🌱 I’m currently learning **ML, Python and SQL**
 
