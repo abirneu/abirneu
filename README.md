@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" alt="GitHub Banner">
 </p>
+<div align="center">
+<a href = "https://drive.google.com/file/d/1jbwW6Uyg3o6aj-sl3ysbBUaDnRwdQ3I9/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Abir-blue" width="200" height="35"></a>
+<a href = "https://jobportal-k7o0.onrender.com/" ><img src="https://img.shields.io/badge/Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
+<a href = "https://portfolio-2025-prj8.onrender.com/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Abir Hasan</h1>
 <h3 align="center">A passionate Programmer and Full Stack Web Developer from Bangladesh</h3>
