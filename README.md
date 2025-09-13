@@ -21,8 +21,8 @@
 </p>
 
 ## 🚀 About Me
-- 🤖 I’m currently working on [CKD Prediction Using ML](https://github.com/abirneu/CKD)
-- 🌱 I’m currently learning **ML, Python, and SQL**
+- 🤖 I’m currently working on [LMS Project](https://github.com/abirneu/LMS)
+- 🌱 I’m currently learning **React.Js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abirneu.github.io/Portfolio/)
 - 📫 Reach me at **abir.neu@gmail.com**
 
