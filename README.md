@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=600&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=750&lines=🚀+Building+scalable+web+applications;🤖+Exploring+Machine+Learning+%26+AI;⚡+Solving+complex+algorithmic+problems;🌏+Passionate+developer+from+Bangladesh;🎯+Turning+caffeine+into+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=600&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=750&lines+Building+scalable+web+applications;Exploring+Machine+Learning+%26+AI; Solving+complex+algorithmic+problems;Passionate+developer+from+Bangladesh;Turning+caffeine+into+clean+code" alt="Typing SVG" />
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### Hey there, I'm **Abir** 👋
+### Hey there, I'm **Abir** 
 
 A passionate **Full Stack Web Developer** and **CS enthusiast** from 🇧🇩 Bangladesh, driven by the belief that great software can solve real-world problems.
 
@@ -48,13 +48,13 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 <br>
 
-🔭 &nbsp;Currently building → **[LMS Project](https://github.com/abirneu/LMS)**  
-🌱 &nbsp;Currently mastering → **React.js & Deep Learning**  
-🏆 &nbsp;Competitive programmer on **Codeforces**, **LeetCode** & **HackerRank**  
-📖 &nbsp;I write tech blogs to share what I learn  
-💬 &nbsp;Ask me about **Python, Django, Web Dev, or Algorithms**  
-📫 &nbsp;Reach me at **abir.neu@gmail.com**  
-⚡ &nbsp;Fun fact: I debug with `print()` and I'm proud of it 😄  
+&nbsp;Currently building → **[LMS Project](https://github.com/abirneu/LMS)**  
+&nbsp;Currently mastering → **React.js & Deep Learning**  
+&nbsp;Competitive programmer on **Codeforces**, **LeetCode** & **HackerRank**  
+&nbsp;I write tech blogs to share what I learn  
+&nbsp;Ask me about **Python, Django, Web Dev, or Algorithms**  
+&nbsp;Reach me at **abir.neu@gmail.com**  
+&nbsp;Fun fact: I debug with `print()` and I'm proud of it
 
 <br>
 
@@ -81,7 +81,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 ## ✦ Tech Arsenal
 
-### 🖥️ Languages
+### Languages
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 </div>
 
-### 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 </div>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 <div align="center">
 
@@ -115,7 +115,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 </div>
 
-### 🤖 ML / Data Science
+### ML / Data Science
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 </div>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <div align="center">
 
@@ -202,7 +202,7 @@ I love crafting pixel-perfect, performant web applications — from elegant fron
 
 <div align="center">
 
-| 🚀 Project | 📋 Description | 🧰 Stack | 🔗 |
+| Project | Description | Stack | |
 |:---:|:---|:---:|:---:|
 | **LMS Platform** | Full-featured Learning Management System with role-based access, course management & progress tracking | `Django` `MySQL` `JS` | [→ GitHub](https://github.com/abirneu/LMS) |
 | **Job Portal** | Production-ready job board with employer dashboards, applicant filtering & real-time notifications | `Django` `Bootstrap` `SQLite` | [→ Live](https://jobportal-k7o0.onrender.com/) |
