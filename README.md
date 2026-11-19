@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 # Abir Hasan
 ### Full Stack Engineer | Django & DRF | React & Next.js
 
